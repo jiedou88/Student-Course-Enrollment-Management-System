@@ -1,0 +1,10 @@
+
+In line number 27 of your output:
+The output should be:
+Passed
+But your output is: 
+saveRecs():File can not open: testFile.txt
+^
+|
+Professors character ASCII code: hex(50), dec(80)
+un-matched character ASCII code: hex(73), dec(115)
